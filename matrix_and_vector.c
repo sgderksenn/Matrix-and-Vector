@@ -1,6 +1,6 @@
 /*
 
- Sydney Derksen/V00910431/29/10/19
+ Sydney Derksen/29/10/19
 
  This program was designed to be a matrix/vector library for the functions described by matrix_and_vector.h
 
